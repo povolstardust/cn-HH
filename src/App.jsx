@@ -117,9 +117,13 @@ export default function App() {
       {/* Top bar */}
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 pt-8">
         <div className="flex items-center gap-2.5">
-          <span className="flex h-8 w-8 items-center justify-center rounded-full bg-ink font-display text-sm text-cream">
-            p.
-          </span>
+          <img
+            src="/logo.svg"
+            alt="povol.online"
+            className="h-7 w-auto"
+            width="62"
+            height="28"
+          />
           <span className="text-sm font-medium tracking-tight text-ink">
             {BRAND.name}
           </span>
