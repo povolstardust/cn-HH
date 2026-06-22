@@ -5,15 +5,16 @@
     Roboto, Helvetica, Arial, sans-serif;
   --font-display: "Fraunces", ui-serif, Georgia, "Times New Roman", serif;
 
-  /* Brand palette — warm, editorial, povol.online */
-  --color-cream: #faf6f1;
-  --color-ink: #211b16;
-  --color-clay-100: #efe3da;
-  --color-clay-200: #e2cdbf;
-  --color-clay-400: #bd917b;
-  --color-clay-500: #a4775f;
-  --color-clay-600: #8a6049;
-  --color-clay-700: #6f4c39;
+  /* Brand palette — plum / mauve, editorial, povol.online
+     (proměnné nesou název clay-* z historických důvodů; barvy jsou švestkové) */
+  --color-cream: #faf7f9;
+  --color-ink: #211a20;
+  --color-clay-100: #ece2ea;
+  --color-clay-200: #d8c4d4;
+  --color-clay-400: #a87fa0;
+  --color-clay-500: #875f80;
+  --color-clay-600: #6d4c67;
+  --color-clay-700: #553c50;
 }
 
 html {
